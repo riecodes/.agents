@@ -1,0 +1,5 @@
+# ignore plans and walkthroughs data files but not the folders themselves
+plans/*
+!plans/.gitkeep
+walkthroughs/*
+!walkthroughs/.gitkeep
