@@ -3,3 +3,5 @@ plans/*
 !plans/.gitkeep
 walkthroughs/*
 !walkthroughs/.gitkeep
+contexts/*
+!contexts/.gitkeep

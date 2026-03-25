@@ -1,5 +1,5 @@
 Create A Plan
-- put on `.agents/plans/`
+- put on `.agents/plans/` (if you are antigravity ignore this rule)
 - reference shared guardrails: `.agents/shortcuts/SHARED_GUARDRAILS.md`
 - do not execute
 
