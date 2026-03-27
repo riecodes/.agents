@@ -5,3 +5,5 @@ walkthroughs/*
 !walkthroughs/.gitkeep
 contexts/*
 !contexts/.gitkeep
+next_steps/*
+!next_steps/.gitkeep
